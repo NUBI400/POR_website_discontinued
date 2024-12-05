@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3779"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="x.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3781"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="520.83011"
+     inkscape:cy="594.55492"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3776" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4964"
+       transform="matrix(1.0421202,0,0,1.1981445,-1.4917736,-17.101176)">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.509822;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect4730"
+         width="25.527618"
+         height="158.54129"
+         x="-60.634903"
+         y="98.081581"
+         ry="12.763809"
+         transform="matrix(0.79002589,-0.61307348,0.78942913,0.61384171,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.509822;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect4730-0"
+         width="25.527618"
+         height="158.54129"
+         x="-190.11192"
+         y="-31.233404"
+         ry="12.763809"
+         transform="matrix(-0.79002589,-0.61307348,-0.78942913,0.61384171,0,0)" />
+    </g>
+  </g>
+</svg>

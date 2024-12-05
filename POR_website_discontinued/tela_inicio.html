@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela de Início</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #000; /* Cor de fundo preta */
+        }
+
+        .splash-screen {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .splash-screen img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: cover; /* Garante que a imagem cubra o contêiner */
+        }
+    </style>
+</head>
+<body>
+    <div class="splash-screen">
+        <img src="assets/Inicio/tela de inicio.png" alt="Tela de Início">
+    </div>
+
+    <script>
+        // Redireciona após 0,5 segundos (500 milissegundos)
+        setTimeout(function() {
+            window.location.href = 'index.html'; // Substitua com o URL da página de destino
+        }, 3000);
+    </script>
+</body>
+</html>
